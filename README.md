@@ -36,6 +36,6 @@
 ---
 
 ## 📫 Contato  
-📧 [Email](mailto:seuemail@example.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/) | 🐙 [GitHub](https://github.com/seu-usuario)  
+📧 [Email](mailto:rabelonicolas01@gmail.com) | 🔗 [LinkedIn](www.linkedin.com/in/nicolas-rabelo-de-melo-9a3a24274) | 🐙 [GitHub](https://github.com/seu-usuario)  
 
 💜 **Obrigado por visitar meu perfil!**
