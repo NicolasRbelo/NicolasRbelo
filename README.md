@@ -1,5 +1,7 @@
 <h1 align="center">
+  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=800080&center=true&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+Nicolas+Rabelo" />
+  </div>
 </h1>
 
 ---
