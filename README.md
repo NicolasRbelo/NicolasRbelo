@@ -29,8 +29,8 @@
 
 ## 🌟 Estatísticas do GitHub  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dracula&hide_border=true&ring=800080&fire=800080&currStreakLabel=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRbelo&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=800080&text_color=ffffff&icon_color=800080" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasRbelo&theme=dracula&hide_border=true&ring=800080&fire=800080&currStreakLabel=ffffff" />
 </div>
 
 ---
